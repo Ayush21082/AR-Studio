@@ -13,6 +13,7 @@
 		7DBCC50C26DBE21E004B831D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DBCC50A26DBE21E004B831D /* Main.storyboard */; };
 		7DBCC50E26DBE221004B831D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DBCC50D26DBE221004B831D /* Assets.xcassets */; };
 		7DBCC51126DBE221004B831D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DBCC50F26DBE221004B831D /* LaunchScreen.storyboard */; };
+		7DBCC51926DBE2B7004B831D /* FaceMeshViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DBCC51826DBE2B7004B831D /* FaceMeshViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7DBCC50D26DBE221004B831D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DBCC51026DBE221004B831D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DBCC51226DBE221004B831D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DBCC51826DBE2B7004B831D /* FaceMeshViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceMeshViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7DBCC50626DBE21E004B831D /* SceneDelegate.swift */,
 				7DBCC50826DBE21E004B831D /* ViewController.swift */,
 				7DBCC50A26DBE21E004B831D /* Main.storyboard */,
+				7DBCC51826DBE2B7004B831D /* FaceMeshViewController.swift */,
 				7DBCC50D26DBE221004B831D /* Assets.xcassets */,
 				7DBCC50F26DBE221004B831D /* LaunchScreen.storyboard */,
 				7DBCC51226DBE221004B831D /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				7DBCC50926DBE21E004B831D /* ViewController.swift in Sources */,
 				7DBCC50526DBE21E004B831D /* AppDelegate.swift in Sources */,
+				7DBCC51926DBE2B7004B831D /* FaceMeshViewController.swift in Sources */,
 				7DBCC50726DBE21E004B831D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
