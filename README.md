@@ -7,7 +7,7 @@
 <img alt="iOS" src="https://img.shields.io/badge/iOS-13-orange">
 </p>
  
- ## The problem AR Studio solves
+## Introduction ##
 AR Studio turns your iPad, and iPhone into a collection of AR Instruments and a full-featured recording studio — so you can make music anywhere you go. Use AR gestures to play keyboards, guitars, and create beats that make you sound like a pro — even if you’ve never played a note before. And then share your song with friends and family.
 
  ## Steps to run 📲 ##
@@ -46,7 +46,7 @@ AR Studio turns your iPad, and iPhone into a collection of AR Instruments and a 
  ## Updates
  
 - [x] Body Tracking
-- [ ] Add Face Tracking for BeatBoxing
+- [x] Add Face Tracking
 - [ ] 3D Music Intrument
 - [ ] AppStore Available 
 
