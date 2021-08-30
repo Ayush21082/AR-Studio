@@ -1,4 +1,5 @@
 # AR-Studio
+<img src="https://github.com/Ayush21082/AR-Studio/blob/main/Assets/UI_UX%20Design%20Assets/Mask%20Group.png" width="100">
  It is a music and podcast creation system enables users to create multiple tracks using AR(Augmented Reality).
  <p>
 <img alt="iOS" src="https://img.shields.io/badge/platform-iOS-blue">
