@@ -41,7 +41,7 @@ AR Studio turns your iPad, and iPhone into a collection of AR Instruments and a 
 `Swift` `Augmented Reality` `Machine Learning`
 
 ## Project Video
-[![IMAGE ALT TEXT HERE](https://i.pinimg.com/564x/a3/d7/16/a3d71609b08d44301b3497130849d6a1.jpg)](https://youtu.be/HUsIX_9uMKU)
+[![IMAGE ALT TEXT HERE](https://i.pinimg.com/564x/a3/d7/16/a3d71609b08d44301b3497130849d6a1.jpg)](https://youtu.be/z5PAqdHBai4)
 
  ## Updates
  
