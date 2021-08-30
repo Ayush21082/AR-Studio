@@ -5,6 +5,10 @@
 <img src="https://github.com/Ayush21082/AR-Studio/blob/main/Demo/demo.gif" width="200" height="400"> 
 <img src="https://github.com/Ayush21082/AR-Studio/blob/main/Assets/wikiImg/body-tracks.png" width="200"> 
 
+## Screenshots
+<img src="https://github.com/Ayush21082/AR-Studio/blob/main/Demo/screenshots/main.png"> 
+
+
 ## Concept
 <img src="https://github.com/Ayush21082/AR-Studio/blob/main/Assets/wikiImg/main.png">
 
