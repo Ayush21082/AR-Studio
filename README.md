@@ -1,6 +1,6 @@
 # AR-Studio
 <img src="https://github.com/Ayush21082/AR-Studio/blob/main/Assets/logo/logo.png" width="100">
- It is a music and podcast creation system enables users to create multiple tracks using AR(Augmented Reality).
+ It is a music creation system enables users to create multiple tracks using AR(Augmented Reality).
  <p>
 <img alt="iOS" src="https://img.shields.io/badge/platform-iOS-blue">
  <img alt="Swift" src="https://img.shields.io/badge/Swift-5.0-brightgreen">
