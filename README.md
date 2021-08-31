@@ -71,7 +71,7 @@ AR Studio turns your iPad, and iPhone into a collection of AR Instruments and a 
   </br>
  [Akshat Jain](https://github.com/vortex0117)
   </br>
- [Vansh Sharma](https://github.com/Vansh07)
+ [Vansh Sharma](https://github.com/Vansh02)
   </br>
   
  ## How to Contribute 🖋 ##
