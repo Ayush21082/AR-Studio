@@ -66,13 +66,6 @@ AR Studio turns your iPad, and iPhone into a collection of AR Instruments and a 
 
  ## Author 👩‍💻 ##
  [Ayush Singh](https://github.com/ayush21082)
- </br>
- [Harshil Kumar](https://github.com/HARSHIL00-7)
-  </br>
- [Akshat Jain](https://github.com/vortex0117)
-  </br>
- [Vansh Sharma](https://github.com/Vansh02)
-  </br>
   
  ## How to Contribute 🖋 ##
  * Run the app - Steps are mentioned above.
